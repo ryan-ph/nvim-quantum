@@ -34,7 +34,7 @@ local built_in = {
     Folded = {fg = gray3, bg = gray1},
     FoldColumn = {fg = gray4, bg = gray1},
     SignColumn = {fg = gray5, bg = gray1},
-    IncSearch = {fg = yellow},
+    IncSearch = {fg = gray1, bg = yellow},
     -- Substitute = {},
     LineNr = {fg = gray3},
     CursorLineNr = {fg = gray4, bg = gray2},
